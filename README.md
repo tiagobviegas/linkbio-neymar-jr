@@ -1,4 +1,4 @@
-# Visit Paraty - Visite Paraty
+# LinkBio Neymar Jr.
 
 ### [EN-US]
 Website to Neymar Jr. LinkBio using HTML and CSS in order to practice pseudo-classes, pseudo-elements and tag "video" apprenticeship.
