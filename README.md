@@ -1,10 +1,10 @@
 # Visit Paraty - Visite Paraty
 
 ### [EN-US]
-Fictional Paraty City Hall website focused on pseudo-classes and pseudo-elements.
+Website to Neymar Jr. LinkBio using HTML and CSS in order to practice pseudo-classes, pseudo-elements and tag "video" apprenticeship.
 
 ### [PT-BR]
-Site fictício da Prefeitura de Paraty para a prática de pseudo-classes e pseudo-elements.
+Site para a LinkBio do Neymar Jr. utilizando HTML e CSS para a prática de aprendizado em pseudo-classes, pseudo-elementos e utilização da tag "video".
 
 
 ## PROGRESS
